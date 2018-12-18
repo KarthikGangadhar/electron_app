@@ -1,0 +1,23 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "This is a javascript desktop application built using electron framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/electron_app.git"
+  },
+  "author": "kgangadhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/electron_app/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/electron_app#readme",
+  "dependencies": {
+    "electron": "^3.0.13"
+  }
+}
